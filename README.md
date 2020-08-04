@@ -5,9 +5,9 @@ Objetivo: O script gera um valor aleatório entre 1 e 6 e permite que o usuário
 
 Habilidades praticadas:
 
-# Tratamento de exceções
-# Condicionais If/Else
-# Input de dados
-# Geração de valores
-# Print
+- Tratamento de exceções
+- Condicionais If/Else
+- Input de dados
+- Geração de valores
+- Print
 
